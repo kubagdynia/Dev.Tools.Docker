@@ -1,0 +1,1 @@
+docker-compose -p sqlserver-2019 -f sqlserver-2019.yaml down
